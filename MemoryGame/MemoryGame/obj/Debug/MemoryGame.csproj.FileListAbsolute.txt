@@ -1,0 +1,11 @@
+D:\Faculta\II\Lab\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+D:\Faculta\II\Lab\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+D:\Faculta\II\Lab\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+D:\Faculta\II\Lab\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.AssemblyReference.cache
+D:\Faculta\II\Lab\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.SuggestedBindingRedirects.cache
+D:\Faculta\II\Lab\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MemoryGame.resources
+D:\Faculta\II\Lab\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+D:\Faculta\II\Lab\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+D:\Faculta\II\Lab\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+D:\Faculta\II\Lab\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+D:\Faculta\II\Lab\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
